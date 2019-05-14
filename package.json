@@ -10,7 +10,7 @@
   "author": "freemenL",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ant-design/antd-tools.git"
+    "url": "git@https://github.com/FreemenL/emptyd-tools"
   },
   "bugs": {
     "url": "https://github.com/FreemenL/emptyd-tools/issues"
